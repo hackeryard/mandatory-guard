@@ -1,0 +1,15 @@
+{
+  "name": "@openlabs/mandatory-guard",
+  "version": "1.0.0",
+  "description": "Mandatory startup guard for environment validation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT"
+}
