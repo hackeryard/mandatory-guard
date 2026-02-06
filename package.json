@@ -1,5 +1,5 @@
 {
-  "name": "@openlabs/mandatory-guard",
+  "name": "@hackeryard/mandatory-guard",
   "version": "1.0.0",
   "description": "Mandatory startup guard for environment validation",
   "main": "dist/index.js",
