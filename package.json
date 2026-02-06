@@ -1,6 +1,6 @@
 {
   "name": "@hackeryard/mandatory-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mandatory startup guard for environment validation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
